@@ -1,3 +1,6 @@
+**#version of openvpn-radiusplugin compatible with Openvpn v2.6.x**
+
+
 /*
  *  radiusplugin -- An OpenVPN plugin for do radius authentication 
  *					and accounting.
