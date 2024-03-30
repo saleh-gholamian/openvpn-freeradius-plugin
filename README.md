@@ -1,4 +1,4 @@
-#version of openvpn-radiusplugin compatible with Openvpn v2.6.x
+# version of openvpn-radiusplugin compatible with Openvpn v2.6.x
 Original source: https://github.com/ValdikSS/openvpn-radiusplugin
 
 /*
